@@ -1,12 +1,6 @@
 # gan-anime-generation
 Built a Generative Adversarial Network to generate high-quality anime-style images from random noise.
-
----
-
-# 🎨 2. GAN for Anime-style Image Generation
-
-```markdown
-# GAN for Anime-style Image Generation
+# 2. GAN for Anime-style Image Generation
 
 ## Overview
 This project uses **Generative Adversarial Networks (GANs)** to transform real human images into anime-style images. It focuses on **image-to-image translation** and realistic style generation.
