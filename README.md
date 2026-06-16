@@ -25,9 +25,6 @@ Creating high-quality stylized images is challenging using traditional methods. 
 - Learned style transformation effectively
 - Improved visual quality over training iterations
 
-## Output Samples
-(Add generated anime images here)
-
 ## How to Run
 ```bash
 git clone https://github.com/your-username/anime-gan.git
